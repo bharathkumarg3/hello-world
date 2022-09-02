@@ -34,5 +34,5 @@
 </div>
 
 <div class="dark">
-  <p>This pen was madee by <a href="https://codepen.io/flyingfisch">flyingfisch</a>. Check out my <a href="http://toppagedesign.com">website</a>!</p>
+  <p>This pen was made by <a href="https://codepen.io/flyingfisch">flyingfisch</a>. Check out my <a href="http://toppagedesign.com">website</a>!</p>
 </div>
